@@ -1,0 +1,14 @@
+1- Login by gmail Finish by  wednesday
+
+===================
+MVVM:
+
+https://medium.com/flutterworld/flutter-mvvm-architecture-f8bed2521958
+https://titanwolf.org/Network/Articles/Article?AID=6496f6c9-2e14-4960-9549-df52e64f8c43
+
+The model folder contains Xservice.dart and Xrepository.dart, Xservice contains the actual api call, Xrepo contains code that maps the json.
+
+
+The view is pure flutter frontend code
+
+The viewmodel contains the data taken from the view (text editing controllers)

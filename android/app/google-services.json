@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623405415498",
+    "project_id": "interactivemap-29419",
+    "storage_bucket": "interactivemap-29419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623405415498:android:7857ae155fef5d24bc7ab3",
+        "android_client_info": {
+          "package_name": "com.example.interactivemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623405415498-neu8hgtvg1e614fql7rarb7c238nqac4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuvVkKaSoMOB3bVbN0r3meMLblfOiwoXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623405415498-neu8hgtvg1e614fql7rarb7c238nqac4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
